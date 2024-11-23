@@ -1,21 +1,12 @@
-# Yanfei Bot
-Yanfei is a friendly bot designed for **gaming**, **utilities**, **moderation**, and **API** commands, using ( **,** ) as its prefix.
-Here are some unique commands from Yanfei
+Yanfei Shop is a Discord bot designed for marketplace or shop servers. It streamlines time-consuming tasks with features like auto-responders, terms of service setup, converters, exchangers, and more, providing functions not typically found in other bots. It aims to save time and improve server management efficiency. With 24/7 support, the bot ensures smooth operation and quick issue resolution. If you’re looking to enhance your shop server’s functionality, consider inviting Yanfei Shop today!
 
-1. ,ttt : Play Tic-Tac-Toc with your friends or strangers.
-2. ,weather : Shows the current weather of a city.
-3. ,create_qr : Create and scan QR Code.
-4. ,birthday : Shows your birthday and next birthday details.
+Yanfei Shop Includes With :
 
-And much more, what are you waiting for?
+NO PREMIUM FEATURES!
+50+ USEFUL COMMANDS!
+24/7 SUPPORT AVAILABLE!
+CUSTOMIZABLE COMMANDS!
+AND MUCH MORE!
 
-# Tutorial
-
-1. Add Yanfei to your server!
-- https://discord.com/oauth2/authorize?client_id=1278555305818460251&permissions=8&integration_type=0&scope=applications.commands+bot
-
-2. Check out the commands!
-- Type **,help** in any channel!
-
-# Notes
-- Yanfei doesn't respond in DMS!
+Website: https://yanfei.org/shop
+Commands: https://yanfei.org/shop#commands
