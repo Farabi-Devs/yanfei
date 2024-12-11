@@ -1,4 +1,19 @@
-Yanfei Shop is a Discord bot designed for marketplace or shop servers. It streamlines time-consuming tasks with features like auto-responders, terms of service setup, converters, exchangers, and more, providing functions not typically found in other bots. It aims to save time and improve server management efficiency. With 24/7 support, the bot ensures smooth operation and quick issue resolution. If you’re looking to enhance your shop server’s functionality, consider inviting Yanfei Shop today!
+**Yanfei** is a multipurpose **Discord bot** that can be used to **moderate your server** or **installed through a user application.** If you authorize it, you can use the bot’s commands anywhere! It has time-saving commands such as **API, utilities, moderation, trolling,** and more. It is completely safe with 24/7 bot support. For more information, visit **https://yanfei.org.**
 
-Website: https://yanfei.org/shop
-Commands: https://yanfei.org/shop#commands
+Features:
+1. **TROLLING COMMANDS**
+2. **MODERATION COMMANDS**
+3. **API COMMANDS**
+4. **UTILITIES COMMANDS**
+
+> About: **https://yanfei.website/about**
+
+> Invite: **https://yanfei.org/invite**
+
+> Support: **https://yanfei.org/support**
+
+> Terms: **https://yanfei.org/terms**
+
+> Privacy Policy: **https://yanfei.org/privacy-policy**
+
+Yanfei's official website is **yanfei.org**, but **yanfei.website** serves as an alternative for FAQs and search engine options. If one server is down, the other will remain operational.
